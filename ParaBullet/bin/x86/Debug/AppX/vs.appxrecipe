@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-DD9TDTV</Machine>
+    <WindowsUser>hp</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>4ae0df95-b25b-42e9-938a-b78b5b0a4db4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=hp</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A94F2B1C362C68FFB31D5E58D00614450535D10B2ED5F5A74645F7D5C8B33734</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4ae0df95-b25b-42e9-938a-b78b5b0a4db4_1.0.0.0_x86__frh6kvfkqjj2p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4ae0df95-b25b-42e9-938a-b78b5b0a4db4_frh6kvfkqjj2p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4ae0df95-b25b-42e9-938a-b78b5b0a4db4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:52:19.758</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.exe">
+      <PackagePath>entrypoint\ParaBullet.exe</PackagePath>
+      <Modified>2023-09-15T18:52:17.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2022-06-11T03:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2023-05-12T04:54:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2023-09-15T07:00:19.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:02.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:00.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-09-15T18:49:01.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2023-09-15T18:47:02.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.xr.xml">
+      <PackagePath>ParaBullet.xr.xml</PackagePath>
+      <Modified>2023-09-15T18:52:17.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2023-09-15T18:52:17.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2023-09-15T18:52:17.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2023-05-12T07:38:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-09-15T18:52:18.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\ParaBullet.exe">
+      <PackagePath>ParaBullet.exe</PackagePath>
+      <Modified>2023-09-15T18:52:19.745</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
