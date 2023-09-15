@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4ae0df95-b25b-42e9-938a-b78b5b0a4db4</PackageIdentityName>
     <PackageIdentityPublisher>CN=hp</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>A94F2B1C362C68FFB31D5E58D00614450535D10B2ED5F5A74645F7D5C8B33734</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4ae0df95-b25b-42e9-938a-b78b5b0a4db4_1.0.0.0_x86__frh6kvfkqjj2p</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4ae0df95-b25b-42e9-938a-b78b5b0a4db4_frh6kvfkqjj2p!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:52:19.758</Modified>
+      <Modified>2023-09-15T22:01:41.738</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.exe">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\ParaBullet.exe">
       <PackagePath>entrypoint\ParaBullet.exe</PackagePath>
-      <Modified>2023-09-15T18:52:17.952</Modified>
+      <Modified>2023-09-15T22:01:40.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,287 +46,287 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2023-05-12T04:54:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.141</Modified>
+      <Modified>2023-09-15T19:30:44.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.169</Modified>
+      <Modified>2023-09-15T19:30:44.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.203</Modified>
+      <Modified>2023-09-15T19:30:44.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.253</Modified>
+      <Modified>2023-09-15T19:30:44.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.405</Modified>
+      <Modified>2023-09-15T19:30:44.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.754</Modified>
+      <Modified>2023-09-15T19:30:44.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.770</Modified>
+      <Modified>2023-09-15T19:30:44.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.785</Modified>
+      <Modified>2023-09-15T19:30:44.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.800</Modified>
+      <Modified>2023-09-15T19:30:44.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.823</Modified>
+      <Modified>2023-09-15T19:30:44.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.781</Modified>
+      <Modified>2023-09-15T19:30:44.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.825</Modified>
+      <Modified>2023-09-15T19:30:44.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.879</Modified>
+      <Modified>2023-09-15T19:30:44.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.287</Modified>
+      <Modified>2023-09-15T19:30:44.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.841</Modified>
+      <Modified>2023-09-15T19:30:44.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.859</Modified>
+      <Modified>2023-09-15T19:30:44.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.877</Modified>
+      <Modified>2023-09-15T19:30:44.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.946</Modified>
+      <Modified>2023-09-15T19:30:44.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.669</Modified>
+      <Modified>2023-09-15T19:30:44.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.683</Modified>
+      <Modified>2023-09-15T19:30:44.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.749</Modified>
+      <Modified>2023-09-15T19:30:44.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.698</Modified>
+      <Modified>2023-09-15T19:30:44.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.714</Modified>
+      <Modified>2023-09-15T19:30:44.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.577</Modified>
+      <Modified>2023-09-15T19:30:44.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.653</Modified>
+      <Modified>2023-09-15T19:30:44.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.604</Modified>
+      <Modified>2023-09-15T19:30:44.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.619</Modified>
+      <Modified>2023-09-15T19:30:44.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.419</Modified>
+      <Modified>2023-09-15T19:30:44.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.434</Modified>
+      <Modified>2023-09-15T19:30:44.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.448</Modified>
+      <Modified>2023-09-15T19:30:44.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.481</Modified>
+      <Modified>2023-09-15T19:30:44.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.495</Modified>
+      <Modified>2023-09-15T19:30:44.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.509</Modified>
+      <Modified>2023-09-15T19:30:44.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.563</Modified>
+      <Modified>2023-09-15T19:30:44.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.525</Modified>
+      <Modified>2023-09-15T19:30:44.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.539</Modified>
+      <Modified>2023-09-15T19:30:44.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.302</Modified>
+      <Modified>2023-09-15T19:30:44.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.316</Modified>
+      <Modified>2023-09-15T19:30:44.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.332</Modified>
+      <Modified>2023-09-15T19:30:44.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.347</Modified>
+      <Modified>2023-09-15T19:30:44.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.371</Modified>
+      <Modified>2023-09-15T19:30:44.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.964</Modified>
+      <Modified>2023-09-15T19:30:44.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.994</Modified>
+      <Modified>2023-09-15T19:30:44.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.016</Modified>
+      <Modified>2023-09-15T19:30:44.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.119</Modified>
+      <Modified>2023-09-15T19:30:44.629</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-15T07:00:19.305</Modified>
+      <Modified>2023-09-15T19:30:44.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:02.006</Modified>
+      <Modified>2023-09-15T19:30:44.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:00.899</Modified>
+      <Modified>2023-09-15T19:30:44.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.462</Modified>
+      <Modified>2023-09-15T19:30:44.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.590</Modified>
+      <Modified>2023-09-15T19:30:44.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-15T18:49:01.045</Modified>
+      <Modified>2023-09-15T19:30:44.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2023-09-15T18:47:02.015</Modified>
+      <Modified>2023-09-15T19:30:44.633</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.xr.xml">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\ParaBullet.xr.xml">
       <PackagePath>ParaBullet.xr.xml</PackagePath>
-      <Modified>2023-09-15T18:52:17.834</Modified>
+      <Modified>2023-09-15T19:30:44.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-09-15T18:52:17.876</Modified>
+      <Modified>2023-09-15T22:01:40.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-09-15T18:52:17.877</Modified>
+      <Modified>2023-09-15T22:01:40.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2023-05-12T07:38:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-15T18:52:18.599</Modified>
+      <Modified>2023-09-15T22:00:25.052</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\ParaBullet.exe">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\Core\ParaBullet.exe">
       <PackagePath>ParaBullet.exe</PackagePath>
-      <Modified>2023-09-15T18:52:19.745</Modified>
+      <Modified>2023-09-15T22:01:41.733</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

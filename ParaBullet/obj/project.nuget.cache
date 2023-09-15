@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7MdmqOvcadLKh8u6wxaz98sfCEAhBlIJwZNXknxi32ZvdCWb6ddsQ/N8zw79kjyQhUOAGfyoh0VymBsnT0zxfQ==",
+  "dgSpecHash": "hb/hWafcAQnbNFjN6u6gkeN+QcDPW2Gda3X9IlP7BzGQrIShHg45E8qKvPm/kd/E8aQOEdYVpiuLp4ZMeop/oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\ParaBullet.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\ParaBullet.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",

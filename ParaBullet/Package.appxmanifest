@@ -8,7 +8,7 @@
 
   <Identity
     Name="4ae0df95-b25b-42e9-938a-b78b5b0a4db4"
-    Publisher="CN=hp"
+    Publisher="CN=ParaBullet"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="4ae0df95-b25b-42e9-938a-b78b5b0a4db4" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>

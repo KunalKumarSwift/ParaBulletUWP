@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4ae0df95-b25b-42e9-938a-b78b5b0a4db4</PackageIdentityName>
     <PackageIdentityPublisher>CN=hp</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.exe">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\ParaBullet.exe">
       <PackagePath>entrypoint\ParaBullet.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,228 +34,228 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\ParaBullet.xr.xml">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\ParaBullet.xr.xml">
       <PackagePath>ParaBullet.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBullet\New folder\ParaBullet\bin\x86\Debug\Core\ParaBullet.exe">
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Debug\Core\ParaBullet.exe">
       <PackagePath>ParaBullet.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

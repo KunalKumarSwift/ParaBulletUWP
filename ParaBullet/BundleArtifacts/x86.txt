@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\x86\Release\ParaBullet_1.0.0.0_x86.msix
+SymbolPackage=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\obj\x86\Release\Symbols\ParaBullet_1.0.0.0_x86.appxsym

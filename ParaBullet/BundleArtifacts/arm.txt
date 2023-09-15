@@ -1,0 +1,6 @@
+MainPackage=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\ARM\Release\ParaBullet_1.0.0.0_ARM.msix
+SymbolPackage=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\obj\ARM\Release\Symbols\ParaBullet_1.0.0.0_ARM.appxsym
+ResourcePack=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\ARM\Release\ParaBullet_1.0.0.0_scale-100.msix
+ResourcePack=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\ARM\Release\ParaBullet_1.0.0.0_scale-125.msix
+ResourcePack=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\ARM\Release\ParaBullet_1.0.0.0_scale-150.msix
+ResourcePack=C:\Users\hp\Desktop\Dev\ParaBulletUWP\ParaBullet\bin\ARM\Release\ParaBullet_1.0.0.0_scale-400.msix

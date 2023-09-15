@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\ParaBullet.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\ParaBullet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\ParaBullet.csproj": {
+    "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\ParaBullet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\ParaBullet.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\ParaBullet.csproj",
         "projectName": "ParaBullet",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\ParaBullet.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\ParaBullet.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBullet\\New folder\\ParaBullet\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Dev\\ParaBulletUWP\\ParaBullet\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
